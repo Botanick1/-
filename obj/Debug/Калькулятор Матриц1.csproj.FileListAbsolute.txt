@@ -1,0 +1,12 @@
+C:\Users\Михаил\source\repos\Калькулятор Матриц1\bin\Debug\Калькулятор Матриц1.exe.config
+C:\Users\Михаил\source\repos\Калькулятор Матриц1\bin\Debug\Калькулятор Матриц1.exe
+C:\Users\Михаил\source\repos\Калькулятор Матриц1\bin\Debug\Калькулятор Матриц1.pdb
+C:\Users\Михаил\source\repos\Калькулятор Матриц1\obj\Debug\Калькулятор Матриц1.csproj.AssemblyReference.cache
+C:\Users\Михаил\source\repos\Калькулятор Матриц1\obj\Debug\Калькулятор Матриц1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Михаил\source\repos\Калькулятор Матриц1\obj\Debug\Калькулятор_Матриц1.Form1.resources
+C:\Users\Михаил\source\repos\Калькулятор Матриц1\obj\Debug\Калькулятор_Матриц1.Form2.resources
+C:\Users\Михаил\source\repos\Калькулятор Матриц1\obj\Debug\Калькулятор_Матриц1.Properties.Resources.resources
+C:\Users\Михаил\source\repos\Калькулятор Матриц1\obj\Debug\Калькулятор Матриц1.csproj.GenerateResource.cache
+C:\Users\Михаил\source\repos\Калькулятор Матриц1\obj\Debug\Калькулятор Матриц1.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\source\repos\Калькулятор Матриц1\obj\Debug\Калькулятор Матриц1.exe
+C:\Users\Михаил\source\repos\Калькулятор Матриц1\obj\Debug\Калькулятор Матриц1.pdb
